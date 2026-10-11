@@ -30,18 +30,6 @@ The summaries are divided into 16 modules, one for each chapter of the book:
     Activation functions and their constraints (relu, sigmoid, tanh, softmax), choosing the output layer, computing slopes for backpropagation, and upgrading the MNIST network.
 * **`10.neural-learning-about-edges-and-corners.ipynb`**
     Reusing weights in many places: convolutional layers and kernels, how they reduce overfitting, and a simple NumPy implementation.
-* **`11.neural-networks-that-understand-language.ipynb`**
-    Natural language processing with IMDB movie reviews: capturing word correlation, the embedding layer, comparing word embeddings, filling in the blank, and word analogies (king − man + woman).
-* **`12.neural-networks-that-write-like-shakespeare.ipynb`**
-    Recurrent layers for variable-length data: averaged word vectors, identity and transition matrices, and forward and backward propagation through a recurrent network on a question-answering task.
-* **`13.introducing-automatic-optimization.ipynb`**
-    Building a small deep learning framework: tensors, automatic gradient computation (autograd), optimizers, layer types, loss functions, nonlinearities, the embedding layer, cross-entropy, and a recurrent cell.
-* **`14.learning-to-write-like-shakespeare-lstm.ipynb`**
-    Character language modeling, truncated backpropagation, vanishing and exploding gradients, LSTM cells and their gates, and tuning the model to generate text.
-* **`15.deep-learning-on-unseen-data.ipynb`**
-    Privacy in deep learning: federated learning on a spam-detection task, how updates can leak data, secure aggregation, and homomorphic encryption.
-* **`16.where-to-go-from-here.ipynb`**
-    A brief guide to continuing the journey: learning a framework, taking more courses and reading textbooks, blogging, implementing papers, GPUs, open source, and community.
 
 ## 🖼️ Figures
 
