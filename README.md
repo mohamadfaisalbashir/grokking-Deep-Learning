@@ -1,6 +1,6 @@
 # Grokking Deep Learning: Summary Notes
 
-<a style="width: 400px" href="https://www.manning.com/books/grokking-deep-learning"><img alt="Grokking Deep Learning Cover" src="cover.webp" style="width: 400px; height: auto; padding: 10px;"></a>
+<a style="width: 400px" href="https://www.manning.com/books/grokking-deep-learning"><img alt="Grokking Deep Learning Cover" src="./Grokking Deep Learning Cover.png" style="width: 400px; height: auto; padding: 10px;"></a>
 
 **Original Author:** Andrew W. Trask
 
